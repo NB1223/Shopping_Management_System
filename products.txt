@@ -1,0 +1,6 @@
+Dress 599 17
+Saree 700 51
+Shirt 499 87
+Skirt 300 30
+Shawls 230 30
+Pant 100 10
